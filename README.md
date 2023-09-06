@@ -93,6 +93,7 @@ inner class TestCardTransformer : CardTransformer() {
     }
 }
 ```
-或者可以直接参考项目中MainActivity中的实现
-最后实现效果如下：
+或者可以直接参考项目中MainActivity中的实现</br>
+最后实现效果如下：</br>
+![](https://github.com/kiritoj/SwipeCardLayout/blob/master/SVID_20230905_231324%20-original-original.gif)
 
