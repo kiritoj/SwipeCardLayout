@@ -18,12 +18,6 @@
 | enableCacheMoveState  | boolean |是否开启卡片跟手滑动 |
 
 ## 使用
-**添加依赖：**</br>
-```
-$(document).ready(function () {
-    alert('RUNOOB');
-});
-```
 
 像使用普通RecyclerView一样and
 1. 构造数据列表
