@@ -90,4 +90,5 @@ inner class TestCardTransformer : CardTransformer() {
 或者可以直接参考项目中MainActivity中的实现</br>
 最后实现效果如下：</br>
  <img src="http://tva1.sinaimg.cn/large/006nwaiFgy1hhqsi1hjj5g30ge0zku0z.gif" width = "270" height = "480" alt="图片名称" align=center /> </br>
+ 更多切换效果可自定义实现～
 
