@@ -89,5 +89,5 @@ inner class TestCardTransformer : CardTransformer() {
 ```
 或者可以直接参考项目中MainActivity中的实现</br>
 最后实现效果如下：</br>
-![](https://github.com/kiritoj/SwipeCardLayout/blob/master/SVID_20230905_231324%20-original-original.gif)
+ <img src="http://tva1.sinaimg.cn/large/006nwaiFgy1hhqsi1hjj5g30ge0zku0z.gif" width = "270" height = "480" alt="图片名称" align=center /> </br>
 
